@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,37 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+import './App.css';
+
+function Userlist () {
+  return (
+    <div className="userlist">
+    </div>
+  )
+}
+
+function Chat () {
+  return (
+    <div className="chat">
+    </div>
+  )
+}
+
+function Inputbox () {
+  return (
+    <div className="inputbox">
+    </div>
+  )
+}
+
+function App() {
+  return (
+    <div className="App">
+      <Userlist/>
+      <Chat/>
+      <Inputbox/>
+>>>>>>> class-origin/class/03/ex03
     </div>
   );
 }

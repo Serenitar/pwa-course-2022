@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,27 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-------------------
-Exercise 03-03:
-
-Prerequisite: Exercise 03-02
-
-Now after we have successfully create the react app.
-We are now want to change the web to the chat app interface.
-** Make sure you clean up the current branch by running the following commands:
-
-
-```
-git checkout main --force
-git branch -D class/03/ex03
-git checkout -b class/03/ex03
-git merge class-origin/class/03/ex03
-```
-
-
-1. Run `npm start`
-2. You should see the lightgreen background app
-3. Change the app so it look just like the excerise03 in PDF
-4. commit & push
->>>>>>> class-origin/class/03/ex03
