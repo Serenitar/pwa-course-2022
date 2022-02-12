@@ -12,4 +12,4 @@ Exercise 05-01
 2. Study the code structure of App.js and App.css
 3. Remove red border with the screen width is less than 768px
 4. Commit with your student id in commit message
-5. Push to you repo
+5. Push to you repo 
